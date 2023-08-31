@@ -1,4 +1,4 @@
-# HealthBooker🧑‍⚕️
+# Appointment-Booking🧑‍⚕️
 
 <h3>Description :</h3> 
 This is a webapp where you can book an appointment with a doctor.
@@ -126,4 +126,4 @@ REACT_APP_CLOUDINARY_PRESET=YOUR_OWN_CLOUDINARY_PRESET
 ### Connect with me :
 
 <a href="https://www.linkedin.com/in/charulshaharey/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt=" | LinkedIn" height="35" width="35" /></a>
-<
+
